@@ -343,6 +343,7 @@
   {  "name": "Moto G 4G 2014", "wiki_url": "https://wiki.cyanogenmod.org/w/thea_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/thea.png", "oem": "Motorola",  "model": "thea"  },
   {  "name": "Kindle Fire HDX 7 (3rd gen)", "wiki_url": "https://wiki.cyanogenmod.org/w/thor_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/thor.png", "oem": "Amazon",  "model": "thor"  },
   {  "name": "Nexus 7 (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/tilapia_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/grouper.png", "oem": "Google",  "model": "tilapia"  },
+  {  "name": "GM5 Plus", "wiki_url": "https://wiki.cyanogenmod.org/w/tilapia_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/grouper.png", "oem": "Google",  "model": "shamrock"  },
   {  "name": "Moto G 2014", "wiki_url": "https://wiki.cyanogenmod.org/w/titan_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/titan.png", "oem": "Motorola",  "model": "titan"  },
   {  "name": "Xperia Z Ultra", "wiki_url": "https://wiki.cyanogenmod.org/w/togari_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/togari.png", "oem": "Sony",  "model": "togari"  },
   {  "name": "Xperia Z Ultra (GPE)", "wiki_url": "https://wiki.cyanogenmod.org/w/togari_gpe_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/togari.png", "oem": "Sony",  "model": "togari_gpe"  },
